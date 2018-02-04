@@ -1,0 +1,8 @@
+{
+  "name": "LetMeSpeakTabs",
+  "app_id": "8568223f",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
